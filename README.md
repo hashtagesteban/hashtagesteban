@@ -1,9 +1,9 @@
 <h1>Hi, I'm Esteban! <br/><a href="https://www.linkedin.com/in/esteban-garcia-hashtagesteban/">Cloud And DevOps Professional</a></h1>  
 
 <h2>👨‍💻 DevOps Projects </h2>  
-<p><a href="https://github.com/hashtagesteban/Terraform"> Teraform Practice </a></p> 
-<br>
-<p><a href="https://github.com/hashtagesteban/todo_app> Python To do App </a></p>
+<p><a href="https://github.com/hashtagesteban/Terraform"> Teraform Practice </a> 
+<br/>
+<a href="https://github.com/hashtagesteban/todo_app"> Python To do App </a></p>
 
 
 
