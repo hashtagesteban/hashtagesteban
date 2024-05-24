@@ -26,7 +26,15 @@ B.S, Cloud Computing (AWS)<br>Sys Admin <br><br>Python<br>Docker<br>SQL<br>Ansib
 <a href="https://github.com/hashtagesteban/AWS-Lift-and-Shift">AWS Lift and Shift</a>
 
 
-<a href="https://github.com/hashtagesteban/Containerization-of-Java-App"> Containerization of Java app</a>
+<a href="https://github.com/hashtagesteban/Containerization-of-Java-App"> Containerization of Java App</a>
+
+
+<a href="https://github.com/hashtagesteban/todo_app/tree/main"> Python To Do App</a>
+
+<a href="https://github.com/hashtagesteban/Terraform"> Terraform </a>
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/esteban-garcia-hashtagesteban/) 
 
